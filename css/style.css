@@ -25,13 +25,6 @@ main {
     margin-top: 10vh;
   }
 
-  .datos {
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    color: yellow; 
-  }
-
   img {
     border: 1px solid #ddd;
     border-radius: 4px;
