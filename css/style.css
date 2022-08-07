@@ -1,0 +1,52 @@
+main {
+    margin: 0;
+    padding: 10px;
+    background-color: black;
+  }
+  
+  main > h1, p, .OS {
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  .OS {
+    background: rgb(90, 89, 89);
+  }
+  
+  .OS > h2, p {
+    margin: 5px;
+    font-size: 90%;
+  }
+
+  table, th, td {
+    border: 1px solid;
+    margin-top: 10vh;
+  }
+
+  .datos {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+  body{
+    background: black;
+  }
+
+  h1{
+    color: white;
+    text-align: center;
+  }
+
+  .video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
