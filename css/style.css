@@ -11,11 +11,13 @@ main {
   
   .OS {
     background: rgb(90, 89, 89);
+    color: white;
   }
   
   .OS > h2, p {
     margin: 5px;
     font-size: 90%;
+
   }
 
   table, th, td {
@@ -27,7 +29,7 @@ main {
     display:flex;
     justify-content: center;
     align-items: center;
-    color: yellow;
+    color: yellow; 
   }
 
   img {
